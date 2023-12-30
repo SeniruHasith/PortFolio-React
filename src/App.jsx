@@ -4,7 +4,7 @@ const App = () => {
  
 
   return (
-    <div>3D Developper Portfolio</div>
+    <div>3D Developper Portfoli</div>
 
   )
 }
